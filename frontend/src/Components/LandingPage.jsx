@@ -1,5 +1,6 @@
 import React from "react";
 import StartButton from "./StartButton";
+import Ticket from "./Ticket";
 
 
 const LandingPage = () => {
@@ -7,6 +8,7 @@ const LandingPage = () => {
     <>
       <div >
         <StartButton />
+        <Ticket />
       </div>
     </>
   );
