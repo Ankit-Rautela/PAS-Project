@@ -7,7 +7,7 @@ const LandingPage = () => {
   return (
     <>
       <div >
-        <StartButton />
+        {/* <StartButton /> */}
         <Ticket />
       </div>
     </>
